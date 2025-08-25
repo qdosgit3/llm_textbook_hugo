@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction to modern LLMs textbook – Introduction to LLMs</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Introduction to LLMs on Introduction to modern LLMs textbook</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 25 Aug 2025 13:25:12 +0000</lastBuildDate>
+    
+	  <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+      
+    
+    
+  </channel>
+</rss>
