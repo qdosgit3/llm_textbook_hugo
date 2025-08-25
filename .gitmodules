@@ -1,6 +1,0 @@
-[submodule "llm_textbook/hextra"]
-	path = llm_textbook/hextra
-	url = https://github.com/imfing/hextra
-[submodule "llm_textbook/themes/hextra"]
-	path = llm_textbook/themes/hextra
-	url = https://github.com/imfing/hextra
