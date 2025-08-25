@@ -1,0 +1,23 @@
+---
+title: Documentation
+next: first-page
+---
+
+This is a demo of the theme's documentation layout.
+
+## Hello, World!
+
+```go {filename="main.go"}
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Hello, World!")
+}
+```
+
+This \(\sigma(z) = \frac{1}{1 + e^{-z}}\) is an inline expression.
+
+$$F(\omega) = \int_{-\infty}^{\infty} f(t)\, e^{-j \omega t} \, dt$$
+
